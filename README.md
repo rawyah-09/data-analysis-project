@@ -5,7 +5,7 @@ the number of rows and columns: (522064, 7) and there are missing values, we fou
 Missing Values: BillNo (0) ,Itemname (1455) ,Quantity (0) ,Date (0) ,Price (0) CustomerID (134041) ,Country  (0) we dropped rows of missing values , and duplicate data .
 
 after prepared data we moved to Using Apriori model and Association Rule and we got Top 5 Discovered Rules:
-1.Rule:
+1.Rule:\\\
 Antecedent: 60 Teatime Fairy Cake Cases
 Consequent: Pack of 72 Retrospect Cake Cases
 Support: 0.0617
